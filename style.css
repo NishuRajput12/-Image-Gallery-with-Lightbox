@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppins', sans-serif;
+}
+
+.container {
+
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 8%;
+
+}
+
+.gallery img {
+  width: 100%;
+
+}
+
+.gallery img:hover {
+  transform: scale(1.1);
+}
+
+.gallery img {
+  transition: all 0.3s ease;
+}
