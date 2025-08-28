@@ -1,4 +1,4 @@
-## Image Gallery with Lightbox
+# Image Gallery with Lightbox
 
 This project is a responsive image gallery built with **HTML**, **CSS**, **Bootstrap**, and **Lightbox2**. It allows users to view images in a fullscreen lightbox modal with captions.
 
